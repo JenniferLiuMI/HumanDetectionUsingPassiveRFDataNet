@@ -27,6 +27,7 @@ HOD. More specifically, the RFE-LR with SGD achieves the best results with a lim
 frequency bands. The proposed adaptive spectrum sensing method has not only enabled robust
 detection performance in various environments, but also improved the efficiency of the CR system in
 terms of speed and power consumption. (https://www.mdpi.com/1424-8220/20/15/4248)
+
 ![image](https://user-images.githubusercontent.com/90142624/169699268-ee32e640-a8dc-4f34-b93b-f35d447890fe.png)
 ![image](https://user-images.githubusercontent.com/90142624/169699300-1deb0ed6-b37d-4c6b-a716-d363c903cc9a.png)
 ![image](https://user-images.githubusercontent.com/90142624/169699326-d50ba7a7-77f9-4ad0-b22a-facb5884b5ae.png)
